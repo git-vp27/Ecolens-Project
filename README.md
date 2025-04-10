@@ -33,7 +33,7 @@ Designed for nature lovers, bird watchers, and researchers, Ecolens also offers 
 
 ### Image Classification
 - **Model**: DenseNet121  
-- **Training Data**: 12,000+ images  
+- **Training Data**: 12,000 images  
 - **Accuracy**: 97.85%  
 - **Classes**: 40 bird species  
 
