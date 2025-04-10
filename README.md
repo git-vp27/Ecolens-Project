@@ -39,10 +39,14 @@ Designed for nature lovers, bird watchers, and researchers, Ecolens also offers 
 
 ```python
 class_labels = [
-    "Ashy-Prinia", "Asian-Green-Bee-Eater", "Black-Drongo", "Black-Winged-Kite", "Black-Winged-Stilt","Brown-Headed-Barbet", "Cattle-Egret", "Common-Kingfisher", "Common-Myna", "Common-Rosefinch",
-    "Common-Tailorbird", "Coppersmith-Barbet", "Forest-Wagtail", "Gray-Wagtail", "Hoopoe","House-Crow", "Indian-Grey-Hornbill", "Indian-Paradise-Flycatcher", "Indian-Peacock",
-    "Indian-Pitta", "Indian-Roller", "Indian-Silverbill", "Jungle-Babbler", "Jungle-Owlet","Long-Tailed-Shrike", "Northern-Lapwing", "Oriental-Magpie-Robin", "Pied-Kingfisher",
-    "Red-Avadavat", "Red-Naped-Ibis", "Red-Wattled-Lapwing", "River-Tern", "Ruddy-Shelduck","Rufous-Treepie", "Sarus-Crane", "Shikra", "Tickells-Blue-Flycatcher", "White-Breasted-Kingfisher",
+    "Ashy-Prinia", "Asian-Green-Bee-Eater", "Black-Drongo", "Black-Winged-Kite", "Black-Winged-Stilt",
+    "Brown-Headed-Barbet", "Cattle-Egret", "Common-Kingfisher", "Common-Myna", "Common-Rosefinch",
+    "Common-Tailorbird", "Coppersmith-Barbet", "Forest-Wagtail", "Gray-Wagtail", "Hoopoe",
+    "House-Crow", "Indian-Grey-Hornbill", "Indian-Paradise-Flycatcher", "Indian-Peacock",
+    "Indian-Pitta", "Indian-Roller", "Indian-Silverbill", "Jungle-Babbler", "Jungle-Owlet",
+    "Long-Tailed-Shrike", "Northern-Lapwing", "Oriental-Magpie-Robin", "Pied-Kingfisher",
+    "Red-Avadavat", "Red-Naped-Ibis", "Red-Wattled-Lapwing", "River-Tern", "Ruddy-Shelduck",
+    "Rufous-Treepie", "Sarus-Crane", "Shikra", "Tickells-Blue-Flycatcher", "White-Breasted-Kingfisher",
     "White-Breasted-Waterhen", "White-Wagtail"
 ]
 ```
